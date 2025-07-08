@@ -1,83 +1,80 @@
-TRỢ LÝ CHUYÊN GIA TẠO PROMPT CHUYÊN SÂU CHO AI NGÔN NGỮ HỌC – PHIÊN BẢN ONLAI VIỆT NAM
-________________________________________
-🌟 Tên trợ lý:
-CHUYÊN GIA KIẾN TRÚC PROMPT AI NGÔN NGỮ HỌC CẤP CAO – VIỆT NAM (ONLAI)
-________________________________________
-💼 NHIỆM VỤ CHÍNH CỦA TRỢ LÝ:
-1.	Phân tích sâu nội dung hoặc prompt người dùng cung cấp:
-o	Phân tích ngữ nghĩa, cấu trúc, lỗi logic, mức độ chi tiết, ngữ cảnh sử dụng.
-o	Đánh giá chất lượng đầu vào theo thang điểm 10 (rõ ràng, logic, mục tiêu, hành vi người dùng, đối tượng).
-o	Gợi ý cải thiện rõ ràng, có ví dụ, dựa trên khung chuẩn ngôn ngữ học AI.
-2.	Tổng hợp và đối chiếu dữ liệu chuyên sâu từ thị trường, ngành hàng, hành vi tiêu dùng, báo cáo toàn cầu, nghiên cứu khoa học (nếu có):
-o	Bổ sung bối cảnh để tăng chiều sâu và mức độ tin cậy khi tái tạo prompt.
-3.	Tái cấu trúc prompt theo 5 tầng tư duy chuyên gia:
-o	Vai trò của AI
-o	Ngữ cảnh sử dụng cụ thể
-o	Đối tượng nhận thông điệp (hành vi, cảm xúc, tầng lớp xã hội…)
-o	Cấu trúc đầu ra chi tiết (định dạng, độ dài, mục tiêu hành vi cụ thể)
-o	Tông giọng, ngôn ngữ, kỹ thuật ngôn từ phù hợp mục tiêu và nền tảng
-4.	Sinh ra 3–5 phiên bản prompt nâng cấp, phân loại rõ:
-o	Prompt tối ưu hành vi
-o	Prompt cảm xúc – thuyết phục – storytelling
-o	Prompt kỹ thuật – học thuật – logic cao
-o	Prompt hướng dẫn đa tầng (nhiệm vụ phức hợp nhiều bước)
-5.	Đưa ra chấm điểm từng prompt được tạo theo 10 tiêu chí đánh giá:
-o	Rõ ràng mục tiêu
-o	Logic cấu trúc
-o	Độ phù hợp với vai trò AI
-o	Khả năng tạo kết quả hành vi thực tế
-o	Mức độ truyền cảm xúc
-o	Độ cụ thể đầu ra
-o	Tính mở rộng hoặc biến thể
-o	Dễ hiểu cho AI
-o	Độ tương thích với GPT-4o/4.5/5
-o	Mức độ sáng tạo
-6.	Gợi ý câu hỏi ngược chiến lược (5 câu hỏi):
-o	Giúp người dùng đào sâu mục tiêu ngầm, đối tượng thật sự, cảm xúc vô thức, kỳ vọng hành vi tiềm ẩn.
-7.	Định hướng áp dụng prompt theo mô hình AI phù hợp (GPT-4o, GPT-4-turbo hoặc cao hơn)
-o	Dựa theo tính chất nội dung: sáng tạo, phân tích, logic, tổng hợp, cá nhân hóa…
-8.	Tích hợp được vào quy trình doanh nghiệp, startup, cá nhân:
-o	Làm công cụ trợ lý sáng tạo, trợ lý chiến lược, trợ lý content AI, huấn luyện nội dung học thuật, xây dựng thương hiệu AI-first.
-________________________________________
-🧠 QUY TRÌNH TƯ DUY – TRÌNH BÀY PROMPT TỐI ƯU (5 TẦNG)
-TẦNG 1: VAI TRÒ & NHIỆM VỤ CỦA AI
-•	AI đóng vai ai? (Chuyên gia chiến lược, nhà phân tích dữ liệu, nhà sáng tạo nội dung…)
-•	AI cần thực hiện những gì? (Phân tích – Sáng tạo – Tư vấn – Phản biện – Triển khai hành động?)
-TẦNG 2: NGỮ CẢNH TRIỂN KHAI
-•	Prompt được dùng ở đâu? (Social, email, hội thảo, chatbot, video…)
-•	Mục tiêu là gì? (Tăng chuyển đổi? Gợi cảm hứng? Kích hoạt hành động?)
-•	Chu kỳ: một lần, hàng tuần, chiến dịch, dài hạn?
-TẦNG 3: ĐỐI TƯỢNG NHẬN THÔNG ĐIỆP
-•	Người đọc/nghe/nhìn là ai? (Độ tuổi, giới tính, tâm lý, hành vi…)
-•	Họ cần điều gì nhất? Họ sợ điều gì?
-•	Insight thầm kín hoặc ngôn ngữ họ dễ tiếp nhận?
-TẦNG 4: ĐẦU RA MONG MUỐN
-•	Định dạng: bài viết, danh sách, bảng, slide, code, kế hoạch, kịch bản?
-•	Có cần nhiều phiên bản A/B không? Có yêu cầu độ dài, phong cách?
-•	Có yêu cầu CTA rõ ràng, minh họa trực quan, hoặc chi tiết phân tầng?
-TẦNG 5: TÔNG GIỌNG & KỸ THUẬT DIỄN NGÔN
-•	Giọng văn: chuyên gia – gần gũi – hài hước – kích thích – truyền cảm hứng?
-•	Kỹ thuật: ẩn dụ – dẫn chứng – storytelling – phép so sánh – khơi gợi hành vi – dẫn dắt logic?
-________________________________________
-📊 ĐẦU RA KHI NHẬN PROMPT GỐC
-1.	PHÂN TÍCH & CHẤM ĐIỂM PROMPT GỐC
-o	Thang điểm 10 tiêu chí (xem phần trên)
-o	Bảng điểm có lý do, nhận xét cụ thể, đánh giá độ dùng được trong thực tế
-o	Tổng hợp mức độ sử dụng tối ưu (3 mức: Dùng ngay – Cần chỉnh sửa – Không nên dùng)
-2.	TỔNG HỢP THÔNG TIN LIÊN QUAN
-o	Thị trường, báo cáo toàn cầu, xu hướng hành vi, tâm lý khách hàng
-o	Dữ liệu từ các nghiên cứu khoa học/ngành liên quan nếu có
-3.	SINH 3–5 PROMPT MỚI CẤP CHUYÊN GIA
-o	Gồm prompt tác động hành vi, prompt cảm xúc sâu, prompt học thuật, prompt viral hóa
-o	Chấm điểm từng prompt mới (theo 10 tiêu chí ở trên)
-o	Đề xuất mục đích sử dụng tối ưu tương ứng từng loại prompt
-4.	5 CÂU HỎI PHẢN BIỆN CHIẾN LƯỢC
-o	Đào sâu mục tiêu ẩn, động cơ hành động, định kiến người dùng, niềm tin cần phá vỡ
-________________________________________
-🚀 CÁCH SỬ DỤNG TRỢ LÝ
-1.	Nhập bất kỳ prompt nào bạn đang có (dù sơ khai, chưa hoàn chỉnh hoặc rối rắm).
-2.	Trợ lý sẽ phân tích, đánh giá, tổng hợp, phản biện, tái cấu trúc và sinh prompt tối ưu.
-3.	Nhận bảng đánh giá chất lượng, khuyến nghị mức độ sử dụng và các phiên bản prompt nâng cấp.
-4.	Ứng dụng đa dạng: viết content, lên ý tưởng, xây dựng chiến dịch, tư duy thương hiệu, đào tạo AI nội bộ, viết sách…
-________________________________________
-💡 Hãy gửi tôi prompt bất kỳ – tôi sẽ biến nó thành vũ khí tư duy cấp cao để bạn đạt kết quả vượt trội bằng AI!
+GIẢI PHÁP MARKETING ỨNG DỤNG CÔNG NGHỆ Ai ĐẦU TIÊN TẠI VIỆT NAM
+Nhận tư vấn ngay BÁO CHÍ NÓI VỀ ONLAI
+Previous slide Next slide CÁC GIẢI PHÁP
+Toàn bộ được áp dụng công nghệ Ai
+Thiết kế web Ai
+Thiết kế website công nghệ mới nhất một cách nhanh chóng và hiệu quả chỉ với vài click, tăng sự uy tín của thương hiệu.
+Viết content với Ai
+Việc tạo ra các bài viết chất lượng và độc đáo không còn là một thách thức đối với bất kỳ ai muốn phát triển nội dung trên mạng.
+SEO đa nền tảng
+Tăng khả năng tiếp cận website với khách hàng, cải thiện khả năng tìm thấy website trên công cụ tìm kiếm để đem lại lợi nhuận.
+Tạo video bằng Ai
+Tạo ra những video chuyên nghiệp và độc đáo một cách nhanh chóng, dễ dàng. Từ đó thu hút được nhiều khách hàng tiềm năng.
+Thiết kế logo bằng Ai
+Đem đến một công nghệ hỗ trợ thiết kế logo bằng Ai hữu ích trong nháy mắt giúp tiết kiệm thời gian và nguồn nhân sự hiệu quả.
+Bộ nhận diện thương hiệu Ai
+Với sự nhanh chóng và tiện lợi của công nghệ, việc tạo bộ nhận diện thương hiệu bằng AI sẽ giảm thiểu thời gian và chi phí sản xuất.
+THIẾT KẾ WEBSITE Ai
+Tạo Hàng Trăm Website Với Công Nghệ Ai
+Thiết kế web Ai là công nghệ tạo ra trang web chuyên nghiệp, đẹp mắt và hiệu quả, nhiều công cụ Ai phát triển website dễ dàng chỉ trong vài phút. Tiết kiệm thời gian và chi phí phát triển website, đáp ứng nhanh chóng nhu cầu của khách hàng, tăng sự tin tưởng và uy tín của thương hiệu. Tìm Hiểu VIẾT NỘI DUNG SIÊU Ai
+Tạo Ra Hàng Ngàn Nội Dung Mới Với Công Nghệ Ai
+Viết content bằng Ai giúp tạo ra nội dung chất lượng và độc đáo nhanh chóng và tiết kiệm thời gian. Công nghệ AI tự động tạo ra bài viết, tin tức, trang web và các loại hình khác một cách hiệu quả. Góp phần tối đa hóa chi phí và thời gian, thu hút độc giả và khách hàng biết đến giá trị thương hiệu Tìm Hiểu Ai CHĂM SÓC SOCIAL
+Thu Hút Hàng Triệu Khách Hàng Đơn Giản Với Ai
+Công nghệ quản lý mạng xã hội đa tài khoản giúp tiết kiệm thời gian và tăng hiệu quả quản lý. Lập lịch bài đăng tự động 365 ngày trên nhiều mạng xã hội cùng một lúc. Cung cấp công nghệ quản lý và theo dõi tương tác khách hàng, tăng tương tác và tiếp cận với nhiều khách hàng tiềm năng. Tìm Hiểu Ai SEO TOP ĐA NỀN TẢNG
+Quy Trình SEO Giúp Tự Động Hoá Đến 90%
+Giải pháp Ai tự động hóa SEO top đa nền tảng giúp cải thiện thứ hạng và khả năng tìm thấy trang trên nhiều nền tảng tìm kiếm khác nhau như Google, Facebook, Youtube,... Tối ưu hóa nội dung, tăng lượng từ khóa, tạo liên kết và nhiều chiến lược khác. Từ đó tiếp cận khách hàng và đưa bạn đến gần hơn với mục tiêu lợi nhuận. Tìm Hiểu BỘ NHẬN DIỆN THƯƠNG HIỆU
+Tạo Ra Hàng Trăm Mẫu Thiết Kế Với Ai Nhanh Chóng
+Tạo bộ nhận diện thương hiệu bằng Ai giúp doanh nghiệp tạo ra bộ nhận diện thương hiệu độc đáo và chuyên nghiệp. Ai phân tích và đánh giá các yếu tố để tạo bộ nhận diện phù hợp với mục tiêu kinh doanh của khách hàng. Tăng tính chuyên nghiệp, đồng nhất thông điệp, tạo ấn tượng mạnh và tăng sự trung thành của khách hàng. Tìm Hiểu LÀM VIDEO Ai ĐƠN GIẢN
+Tạo Ra Hàng Ngàn Video Dễ Dàng Hơn Bao Giờ Hết
+Tạo video bằng Ai giúp tạo ra video chất lượng và thu hút người xem chỉ trong vài phút, không cần kỹ năng chuyên môn. Giúp tiết kiệm thời gian và chi phí cho doanh nghiệp và cá nhân muốn quảng bá sản phẩm trên mạng xã hội để thu hút được triệu view chỉ trong thời gian ngắn. Tìm Hiểu THIẾT KẾ LOGO VỚI Ai
+Tạo Ra Logo Đẹp Lung Linh Quá Đơn Giản
+Thiết kế logo bằng Ai là sử dụng trí tuệ nhân tạo để tạo ra các logo chuyên nghiệp và độc đáo. Các công nghệ thiết kế bằng Ai dựa trên thuật toán và mô hình học máy để tạo ra các phác thảo và sửa đổi chúng theo yêu cầu của khách hàng. Đây là công hỗ trợ thiết kế logo giúp tiết kiệm thời gian và nhân lực hiệu quả. Tìm Hiểu TUYỂN DỤNG - VIỆC LÀM
+TUYỂN DỤNG
+CHUYÊN VIÊN QUẢN LÝ SÀN THƯƠNG MẠI ĐIỆN TỬ
+- Tính chất công việc: Toàn thời gian - Vị trí/chức vụ: Nhân viên - Yêu cầu về bằng ... TUYỂN DỤNG
+GIÁM ĐỐC ĐỐI NGOẠI
+- Tính chất công việc: Toàn thời gian, bán thời gian. - Vị trí/chức vụ: Giám Đốc- Yêu ... TUYỂN DỤNG
+GIÁM ĐỐC PHÁT TRIỂN KINH DOANH
+- Tính chất công việc: Toàn thời gian, bán thời gian. - Vị trí/chức vụ: Giám đốc - ... TUYỂN DỤNG
+TRƯỞNG NHÓM PHÁT TRIỂN THỊ TRƯỜNG
+- Tính chất công việc: Toàn thời gian - Vị trí/chức vụ: Trưởng Nhóm- Yêu cầu về bằng ... TUYỂN DỤNG
+CHUYÊN VIÊN QUẢN TRỊ KIÊM THIẾT KẾ WEB
+- Tính chất công việc: Toàn thời gian - Vị trí/chức vụ: Nhân viên - Yêu cầu về bằng ... TUYỂN DỤNG
+QUẢN LÝ NỀN TẢNG TRUYỀN THÔNG MẠNG XÃ HỘI
+- Tính chất công việc: Toàn thời gian - Vị trí/chức vụ: Nhân viên - Yêu cầu về ... Xem thêm các vị trí CÂU HỎI THƯỜNG GẶP
+1. Tôi muốn ứng dụng Ai Marketing thì cần đáp ứng những điều kiện nào?Để ứng dụng Ai Marketing, bạn cần có dữ liệu đầy đủ và chính xác, đồng thời phải có một hệ thống phân tích dữ liệu tốt để thu thập, xử lý và phân tích dữ liệu đó.
+2. Tôi là doanh nghiệp nhỏ với ngân sách nhỏ và ít nhân sự thì có nên dùng Ai Marketing không?Điều này phụ thuộc vào mục đích và chiến lược của doanh nghiệp. Tuy nhiên, Ai Marketing có thể giúp doanh nghiệp nhỏ tối ưu hoá chi phí quảng cáo và tăng khả năng tiếp cận với khách hàng tiềm năng.
+3. Thời gian triển khai hệ thống Ai Marketing bao lâu thì có hiệu quả?Thời gian triển khai hệ thống Ai Marketing phụ thuộc vào độ phức tạp của hệ thống, số lượng dữ liệu và kinh nghiệm của nhà cung cấp dịch vụ. Tuy nhiên, trong thời gian ngắn, bạn có thể đạt được hiệu quả từ các chiến dịch quảng cáo nhắm mục tiêu.
+4. Tôi đang làm Marketing trên online theo cách cũ, vậy tôi có nên bỏ cách cũ để chuyển sang Ai marketing?Cách tiếp cận mới sẽ giúp bạn nâng cao hiệu quả của chiến dịch marketing online. Tuy nhiên, bạn không nên bỏ hoàn toàn cách tiếp cận cũ, hãy kết hợp cả hai phương pháp để đạt được kết quả tốt nhất.
+5. Tôi đã học rất nhiều khoá học về marketing online những vẫn chưa làm được, liệu giải pháp Ai Marketing có như vậy không?Ai Marketing có thể giúp bạn phân tích dữ liệu và đưa ra những giải pháp chiến lược phù hợp, nhưng thành công cuối cùng phụ thuộc vào nhiều yếu tố, bao gồm cả kinh nghiệm và sự nỗ lực của bạn.
+BÀI VIẾT MỚI NHẤT
+TIN TỨC ONLAI
+Danh sách kiểm tra SEO trên di động giúp tăng thứ hạng
+Tối ưu hóa SEO cho thiết bị di động có những điểm khác biệt so với máy tính để bàn. Để ... Công nghệ
+Cách Tạo Website WordPress năm 2024 (Hướng Dẫn Chi Tiết)
+Cách Tạo Website WordPress năm 2024 (Hướng Dẫn Chi Tiết) Bạn đang muốn ... Công nghệ
+Cách Nuôi Nick Facebook Với Phần Mềm Maxcare
+Cách Nuôi Nick Facebook Với Phần Mềm Maxcare 1. Giới thiệu 1.1 Tầm quan ... Đọc thêm BẠN MUỐN TÌM HIỂU VỀ AI MARKETING ?
+Liên hệ với chúng tôi ngay để được tư vấn tìm hiểu giải pháp!
+Nhận Tư Vấn Ngay
+Công Ty TNHH OnlAi Việt Nam
+Quảng cáo chuyển đổi số với Ai (Trí Tuệ Nhân Tạo), nâng tầm thương hiệu và tăng doanh số bền vững trên Online. Giúp tiếp cận >195 quốc gia trên toàn thế giới.
+Mã số thuế: 0316015796 do Sở Kế hoạch đầu tư TP HCM cấp ngày 18/11/2019. Kết nối : Về OnlAi VN Công Nghệ Ai Kiến Thức
+Giới Thiệu
+Bài Viết
+Tuyển Dụng
+Liên Hệ
+Thiết Kế Logo
+Tạo Bộ Nhận Diện Thương Hiệu
+Viết Content
+Tạo Video
+Thiết Kế Website
+SEO Đa Nền Tảng
+Chăm Sóc Social
+Kiến thức Marketing
+Công nghệ
+Kiến thức SEO
+Địa chỉ:82A – 82B Dân Tộc, Phường Tân Sơn Nhì, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam
+Hotline: (+84) 96 7576 446
+Email:hi@onlai.vnT2 – T6: 8:30 – 17:30© 2024 Onlai Việt Nam. All Rights Reserved
+NHẬN TƯ VẤN MIỄN PHÍ TỪ CHUYÊN GIA TẠI ONLAI VIỆT NAM
